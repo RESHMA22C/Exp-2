@@ -44,11 +44,16 @@ Test and Validate: Perform testing to ensure the system meets functional require
 <img width="794" height="815" alt="image" src="https://github.com/user-attachments/assets/85476b1a-33fe-42a5-a19b-ce368adc16db" />
 
 ## SEQUENCE DIAGRAM:
+<img width="1303" height="802" alt="image" src="https://github.com/user-attachments/assets/d9011884-b39a-4f9b-b6e7-b3404f28a97e" />
 
-<img width="879" height="1003" alt="image" src="https://github.com/user-attachments/assets/961cc781-824f-4da8-be49-0a437306acd2" />
 
 ## PACKAGE DIAGRAM:
+<img width="768" height="471" alt="image" src="https://github.com/user-attachments/assets/e3500001-e33e-4c72-b457-f26bac538708" />
 
 ## COMMUNICATION DIAGRAM:
 
+<img width="1089" height="620" alt="image" src="https://github.com/user-attachments/assets/60a96b77-2760-4afd-9fa0-8454cb10cd33" />
+
 # RESULT:
+
+Thus, the UML Diagrams for and Library Management System has been drawn and verified.
