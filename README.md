@@ -43,4 +43,12 @@ Test and Validate: Perform testing to ensure the system meets functional require
 
 <img width="794" height="815" alt="image" src="https://github.com/user-attachments/assets/85476b1a-33fe-42a5-a19b-ce368adc16db" />
 
+## SEQUENCE DIAGRAM:
+
+<img width="879" height="1003" alt="image" src="https://github.com/user-attachments/assets/961cc781-824f-4da8-be49-0a437306acd2" />
+
+## PACKAGE DIAGRAM:
+
+## COMMUNICATION DIAGRAM:
+
 # RESULT:
